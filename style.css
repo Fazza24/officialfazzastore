@@ -34,7 +34,7 @@ body {
 /* Tombol navigasi */
 /* Gaya navbar */
 .navbar {
-    width: 100%;
+    width: 100vw;
     padding: 7px 20px;
     display: flex;
     align-items: center;
