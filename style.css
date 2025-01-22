@@ -322,7 +322,6 @@ h1 {
 }
 
 .left-text {
-    position: relative;
     left: 10%;
     padding: 20px;
     font-size: 12px;
